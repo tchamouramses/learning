@@ -1,2 +1,2 @@
-chacun de vous devra créer une branche git portant son nom ou son prenom
- afin de pouvoir poster le proet en ligne et que e puisse recuperer
+chacun de vous devra crÃ©er une branche git portant son nom ou son prenom
+ afin de pouvoir poster le projet en ligne et que je puisse recuperer
